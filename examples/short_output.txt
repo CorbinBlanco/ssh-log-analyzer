@@ -1,0 +1,25 @@
+
+    Welcome to Corbins SSH Log Analyzer.
+    Press 1 for a full security overview
+    Press 2 for a short summarization:
+    
+    2
+1Current mode: Short summarization
+SECURITY OVERVIEW 
+ 
+ 
+
+INTERVENE IMMEDIATELY
+POSSIBLE SUCCESSFUL BRUTE FORCE LOGIN FROM IP: 187.141.143.180
+
+Failed attempts: 80
+Failed usernames: abc, bssh, butter, cyrus, deploy, eoor, ftp, ghost, git, ingrid, jay, magnos, mysql, nagios, nagios1, oracle, oralce, postgres, postgres1, redhat, root, ted, test, test1, test2, ubuntu, vnc, www
+Successful usernames: fztu
+Failed ports: 33314, 33456, 33532, 33574, 34001, 34508, 34759, 35172, 35685, 35697, 36419, 36704, 36902, 37598, 37678, 38180, 38606, 38937, 39319, 39710, 40297, 40414, 40988, 41667, 41834, 42342, 42938, 43092, 43647, 44328, 44414, 45073, 45661, 45696, 45825, 46519, 46878, 46973, 47004, 48023, 48241, 48339, 48369, 49412, 49479, 49494, 49674, 50811, 50880, 51060, 51169, 52176, 52212, 52276, 52586, 53403, 53550, 53589, 53992, 54560, 54596, 54980, 55517, 55761, 55849, 56377, 56816, 57031, 57037, 57704, 58106, 58386, 58682, 59080, 59333, 59705, 60259, 60433, 60547, 60924
+Successful ports: 49117
+First failed attempt: Dec 10 09:12:48
+Last failed attempt: Dec 10 09:20:02
+Successful login time: 2026-12-10 09:20:00
+                
+
+Process finished with exit code 0
